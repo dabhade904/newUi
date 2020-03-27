@@ -1,0 +1,67 @@
+.fullBG {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  
+}
+
+.FormCenter {
+  margin-top:4%;
+}
+
+.FormFields {
+  margin-top: 3%;
+  margin-left: 20%;
+
+}
+.FormBook{
+  margin-left: 20%;
+}
+.FormField {
+  margin-bottom: 6%;
+  margin-top: -5%;
+  margin-left: 20%;
+  margin-right: 60%;
+}
+
+.FormField__Label {
+  display: block;
+  text-transform: uppercase;
+  font-size: .8em;
+}
+
+.FormField__Input {
+  width: 150%;
+  background-color: transparent;
+  border: none;
+  color: black;
+  outline: none;
+  border-bottom: 1px solid #445366;
+  font-size: 1em;
+  font-weight: 300;
+  padding-bottom:2%;
+  margin-top: 2%;
+}
+
+.FormField__Input::placeholder {
+  font-family: "New Times Roman";
+  color: grey;
+}
+
+.FormField__Button {
+  background-color: rgb(125, 219, 208);
+  border: outset;
+  width: 100%;
+  margin-left: 17%;
+  margin-top: -2%;
+  outline: none;
+  border-radius: 14.5%;
+  padding: 5% 15%;
+  font-size: .8em;
+  font-weight: 500;
+}
+
+
+.errorMessage {
+  color: red;
+  font-size: 0.75em;
+}

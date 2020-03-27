@@ -1,0 +1,91 @@
+ /* .App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+div{
+  display:flex;
+  color:#fff;
+  font-size:40px;
+}
+
+.bookdiv{
+  margin-bottom: -120%;
+  margin-left: -107%;
+  width: -300px; 
+   background-color: cadetblue; 
+ }
+
+.button1{
+  background-color:  rgb(131, 12, 26);
+  border: thin;
+  border-style: ridge;
+  border-color: grey;
+  margin-left: 8%;
+}
+
+.button2{
+  border:thin;
+  border-style: ridge;
+  border-color: grey;
+}
+
+.cardList{
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  display: flexbox;
+  flex-wrap: wrap;
+  
+}
+
+.root {
+  max-width:180;
+  height: 290;
+  margin-left: 90;
+  margin-top: 50
+  
+}
+.media {
+  margin-Top: 5;
+  height: 140;
+  width: 100;
+  margin-Left: 40
+  
+} 
+ 
+.imagePath{
+  height:"150px"; 
+  width:"70%";
+  margin-top:"6%";
+  margin-left:"15%";
+}  */
+
+.buttonTrue{
+  width: 70;
+  height: 30;
+  margin-top: -70;
+  font-family: "Times New Roman";
+  color: "black";
+  font-size: "0.60em"
+  }
+  
+  .buttonFalse{
+  width: 90;
+  height: 30;
+  margin-top: -70;
+  font-family: "Times New Roman";
+  color: "black";
+  font-size: "0.60em"
+  }
